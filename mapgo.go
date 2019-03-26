@@ -1,6 +1,5 @@
 package main
 
-
 //创建一个类型
 type usreInfo struct {
 	ID string
